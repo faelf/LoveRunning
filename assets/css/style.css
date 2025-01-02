@@ -43,6 +43,21 @@ h1 {
     color: #252525;
 }
 
+/*  Nav */
+
+#menu {
+    list-style: none;
+    font-size: 1.1rem;
+    letter-spacing: 4px;
+}
+
+#menu > li {
+    margin-bottom: 1em;
+}
+.active {
+    border-bottom: 1px solid;
+}
+
 /* Main Content */
 
 main {
