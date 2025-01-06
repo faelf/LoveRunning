@@ -394,6 +394,10 @@ main {
 
 /* X large devices */
 @media screen and (min-width: 1200px) {
+    #cover-text {
+        left: 500px;
+    }
+
     /* Reasons section */
     #benefits {
         display: flex;
